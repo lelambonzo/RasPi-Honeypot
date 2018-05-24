@@ -37,7 +37,4 @@ echo "sudo cat /var/log/xrdp.log"
 echo "...or you can also type: "
 echo "honeypotrawlog.sh"
 echo ""
-echo "Follow me on twitter for more honeypot fun @ebrinkster :)"
-echo ""
-echo "Modified to be a Pi Honeypot by @ChrisPaiano and @CircuitStatic on 20141206"
 
